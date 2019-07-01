@@ -1,0 +1,3 @@
+infix A + B * C
+postfix A B * C +
+infix (E + D) * (A - B) / (C + G)
